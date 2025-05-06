@@ -25,9 +25,9 @@ This project was developed as a final semester assignment in the *System Dynamic
 - Real-time sensor readings are displayed via Serial Monitor.
 
 ## 📷 Images
-![Schematic](Documentation/schematic_placeholder.png)
-![Flowchart](Documentation/flowchart_placeholder.png)
-![Real Device](Images/robot_photo_placeholder.jpg)
+![Schematic](Documentation/schematic.png)
+![Flowchart](Documentation/flowchart.png)
+![Real Device](Documentation/robot_video.jpg)
 
 ## 📂 Repository Structure
 - `Arduino_Code/`: Main `.ino` code for the ESP32
